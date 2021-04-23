@@ -1,0 +1,13 @@
+.lucky_number_block {
+    background-color: rgb(212, 201, 223);
+    width: 65%;
+    height: 200px;
+    margin: auto;
+    position: relative;
+}
+
+.space {
+    width: 100%;
+    height: 15px;
+}
+
